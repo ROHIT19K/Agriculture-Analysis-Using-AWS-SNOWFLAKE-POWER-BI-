@@ -138,6 +138,40 @@ Developed dynamic KPIs including:
 
 # 🔍 Key Insights
 
+📌 Rainfall Insights
+
+* Bangalore recorded the highest average rainfall at approximately 3.8K mm, indicating strong rainfall concentration in the region.
+* Raichur, Kasaragodu, and Mangalore also showed consistently high rainfall levels above 3.1K mm.
+* Rabi season experienced the highest average rainfall (~3105 mm), followed closely by Kharif and Zaid seasons.
+* Paddy crops received the highest average rainfall (~3.5K mm), making them highly rainfall-dependent.
+* Rainfall trends remained relatively stable across years, fluctuating between 2.7K mm and 3.2K mm.
+* Regions with higher rainfall showed improved agricultural productivity for water-intensive crops.
+
+🌡️ Temperature Insights
+
+* Bangalore recorded the highest average temperature level (~186), significantly higher than other regions.
+* Davangere and Raichur also experienced comparatively high temperature conditions.
+* Kharif and Zaid seasons showed the highest average temperatures (~72), indicating warmer cultivation periods.
+* Ginger crops had the highest average temperature exposure (~79), followed by Tea and Cashew crops.
+* Temperature trends varied across years, with certain years showing noticeable spikes that could impact crop productivity.
+* Moderate temperature regions demonstrated better consistency in crop performance and environmental balance.
+
+.
+💧 Humidity Insights
+* Average humidity remained highly stable across all years, maintaining values around 55–56%.
+* Rabi, Zaid, and Kharif seasons displayed nearly identical humidity levels, indicating balanced atmospheric moisture conditions.
+* Crops such as Cotton, Pepper, Coffee, and Blackgram showed the highest humidity compatibility.
+* Most locations maintained consistent humidity values, supporting stable agricultural environments.
+* Stable humidity conditions indicate lower environmental volatility and better crop sustainability across seasons.
+
+🌾 Yield Insights
+
+* Cotton recorded the highest average yield (~51K), making it the top-performing crop in the dataset.
+* Coconut and Ginger also demonstrated strong agricultural productivity with yields above 25K.
+* Rabi season generated the highest average yield (~24.9K), outperforming Zaid and Kharif seasons.
+* Kodagu achieved the highest regional yield (~28.7K), followed closely by Mysuru and Madikeri.
+* Yield trends showed gradual improvement across several years, indicating agricultural growth and productivity optimization.
+* Crops with balanced rainfall and moderate temperature conditions generally achieved higher yield performance
 ---
 
 # ☁️ Cloud Data Architecture
